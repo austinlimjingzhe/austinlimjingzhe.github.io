@@ -169,6 +169,7 @@ aside{
     width:35.5%;
     max-height:1270;
     margin: 10px 0px;
+    justify-content:center;
 }
 
 .name-block,.info-block-1,.info-block-2,.info-block-3{
@@ -184,7 +185,6 @@ aside{
 }
 
 .tg{
-    margin: 0 15px;
     width: 90%;
     border-collapse: collapse;
 }
